@@ -1,0 +1,6 @@
+什么是Spring Could Gateway
+先说下他的作用
+常用的功能是做路由的转发，认证，权限校验，限流，web安全校验，监控等
+他是由WebFlux+Netty+Reactor实现的响应式API网关，不能再Servlet容器中工作，也不能被构建成War包
+
+
